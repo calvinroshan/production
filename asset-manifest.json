@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/calvinroshan/production.git/static/css/main.c1681fac.chunk.css",
+    "main.js": "/calvinroshan/production.git/static/js/main.61928ce7.chunk.js",
+    "main.js.map": "/calvinroshan/production.git/static/js/main.61928ce7.chunk.js.map",
+    "runtime~main.js": "/calvinroshan/production.git/static/js/runtime~main.40eaa92d.js",
+    "runtime~main.js.map": "/calvinroshan/production.git/static/js/runtime~main.40eaa92d.js.map",
+    "static/css/2.3b02b1b6.chunk.css": "/calvinroshan/production.git/static/css/2.3b02b1b6.chunk.css",
+    "static/js/2.ec5e214b.chunk.js": "/calvinroshan/production.git/static/js/2.ec5e214b.chunk.js",
+    "static/js/2.ec5e214b.chunk.js.map": "/calvinroshan/production.git/static/js/2.ec5e214b.chunk.js.map",
+    "index.html": "/calvinroshan/production.git/index.html",
+    "precache-manifest.839e6faffdf6e3f04aa3d253d1ec3c71.js": "/calvinroshan/production.git/precache-manifest.839e6faffdf6e3f04aa3d253d1ec3c71.js",
+    "service-worker.js": "/calvinroshan/production.git/service-worker.js",
+    "static/css/2.3b02b1b6.chunk.css.map": "/calvinroshan/production.git/static/css/2.3b02b1b6.chunk.css.map",
+    "static/css/main.c1681fac.chunk.css.map": "/calvinroshan/production.git/static/css/main.c1681fac.chunk.css.map",
+    "static/media/App.css": "/calvinroshan/production.git/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/calvinroshan/production.git/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
